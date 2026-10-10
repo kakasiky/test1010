@@ -1,0 +1,1 @@
+display_random_bw_image(512, 800);
